@@ -1,4 +1,4 @@
-public class Main {
+public class MainLibro {
     public static void main(String[] args) {
         ReportesLibro reportesLibro = new ReportesLibro();
         Libro libro = new Libro(
